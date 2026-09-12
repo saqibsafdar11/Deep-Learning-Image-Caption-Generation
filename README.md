@@ -40,8 +40,8 @@ This is a public portfolio edition of the submitted coursework. The student-numb
 
 Copyright (c) Saqib Safdar. Shared for portfolio and educational review purposes.
 
-## Module acknowledgement
+## Module context
 
-Completed for **Deep Learning** as part of my University of Leeds MSc Artificial Intelligence studies. Thank you to [Nabi Omidvar](https://www.linkedin.com/in/nabiomidvar/) for the teaching and guidance.
+Completed for **Deep Learning** as part of my University of Leeds MSc Artificial Intelligence studies.
 
 [Full portfolio](https://saqibsafdar.com/projects/) · [GitHub profile](https://github.com/saqibsafdar11)
