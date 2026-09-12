@@ -39,3 +39,9 @@ Python, PyTorch, torchvision, ResNet-152, recurrent neural networks, pandas, Num
 This is a public portfolio edition of the submitted coursework. The student-number line and administrative filename were removed; the academic content, code and recorded outputs are otherwise unchanged.
 
 Copyright (c) Saqib Safdar. Shared for portfolio and educational review purposes.
+
+## Module acknowledgement
+
+Completed for **Deep Learning** as part of my University of Leeds MSc Artificial Intelligence studies. Thank you to [Nabi Omidvar](https://www.linkedin.com/in/nabiomidvar/) for the teaching and guidance.
+
+[Full portfolio](https://saqibsafdar.com/projects/) · [GitHub profile](https://github.com/saqibsafdar11)
